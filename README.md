@@ -1,5 +1,4 @@
 <img src="https://media.giphy.com/media/0SI5STx66RBgaxf7Z4/giphy.gif" align="right" width="400" height="200">
-<iframe src="https://giphy.com/embed/11fcrB0d09xDDG" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/life-fighter-jet-11fcrB0d09xDDG">via GIPHY</a></p>
 ### Hi there I'm Ramin. 
 
 ## I'm Front end developer
