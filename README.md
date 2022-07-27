@@ -1,4 +1,5 @@
-<img src=""https://giphy.com/embed/11fcrB0d09xDDG" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen">
+<img src=""https://giphy.com/embed/11fcrB0d09xDDG" width="480" height="271">
+
 ### Hi there I'm Ramin. 
 
 ## I'm Front end developer
