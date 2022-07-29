@@ -32,6 +32,6 @@
 <br/>
 <br/>
 
-
+![Github Profile Stats](https://github-readme-stats.vercel.app/api?username=<GITHUB_USERNAME>&show_icons=true&lang=FR)
 [linkedin]:https://www.linkedin.com/in/raminisrafilli/
 [github]:https://github.com/IsrafilliRamin
