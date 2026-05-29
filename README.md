@@ -8,7 +8,7 @@
   <img src="https://raw.githubusercontent.com/IsrafilliRamin/IsrafilliRamin/main/assets/coding.gif" width="350"/>
 </p>
 
-
+![](https://media.giphy.com/media/y982yn8Y7m0FwHQSZz/giphy.gif)
 [<img  width="22" align="left" style="background-color:white" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />][linkedin]
 [<img  width="22" align="left" style="background-color:white" src="https://unpkg.com/simple-icons@v7/icons/github.svg" />][github]
 
