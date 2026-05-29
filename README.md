@@ -1,4 +1,6 @@
-![](https://media.giphy.com/media/y982yn8Y7m0FwHQSZz/giphy.gif)
+<p align="right">
+  <img src="https://media.giphy.com/media/y982yn8Y7m0FwHQSZz/giphy.gif" width="350">
+</p>
 
 
 ### Hi there I'm Ramin. 
