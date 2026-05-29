@@ -4,9 +4,7 @@
 
 ## I'm Front end developer
 ![](https://media.giphy.com/media/y982yn8Y7m0FwHQSZz/giphy.gif)
-<p align="right">
-  <img src="https://media.giphy.com/media/y982yn8Y7m0FwHQSZz/giphy.gif" width="350">
-</p>
+
 
 [<img  width="22" align="left" style="background-color:white" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />][linkedin]
 [<img  width="22" align="left" style="background-color:white" src="https://unpkg.com/simple-icons@v7/icons/github.svg" />][github]
