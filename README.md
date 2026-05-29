@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://media.giphy.com/media/y982yn8Y7m0FwHQSZz/giphy.gif" width="350">
+  <img src="/assets/ezgif.com-video-to-gif-converter.gif" width="350">
 </p>
 
 
