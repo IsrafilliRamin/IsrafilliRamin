@@ -1,6 +1,6 @@
-<p align="right">
-  <img src="/assets/ezgif.com-video-to-gif-converter.gif" width="350">
-</p>
+
+  <img src="/assets/ezgif.com-video-to-gif-converter.gif" width="550">
+
 
 
 ### Hi there I'm Ramin. 
