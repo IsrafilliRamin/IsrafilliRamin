@@ -5,10 +5,9 @@
 ## I'm Front end developer
 
 <p align="right">
-  <img src="https://raw.githubusercontent.com/IsrafilliRamin/IsrafilliRamin/main/assets/coding.gif" width="350"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3l3cWlvZWF0YnZ5ejF2a2p3Z2FqNHI3OXdicHh6cWFxbWFjb2ZjayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/y982yn8Y7m0FwHQSZz/giphy.gif" width="350"/>
 </p>
-
-![](https://media.giphy.com/media/y982yn8Y7m0FwHQSZz/giphy.gif)
+![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3l3cWlvZWF0YnZ5ejF2a2p3Z2FqNHI3OXdicHh6cWFxbWFjb2ZjayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/y982yn8Y7m0FwHQSZz/giphy.gif)
 [<img  width="22" align="left" style="background-color:white" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />][linkedin]
 [<img  width="22" align="left" style="background-color:white" src="https://unpkg.com/simple-icons@v7/icons/github.svg" />][github]
 
