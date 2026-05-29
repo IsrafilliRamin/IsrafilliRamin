@@ -1,9 +1,9 @@
+![](https://media.giphy.com/media/y982yn8Y7m0FwHQSZz/giphy.gif)
 
 
 ### Hi there I'm Ramin. 
 
 ## I'm Front end developer
-![](https://media.giphy.com/media/y982yn8Y7m0FwHQSZz/giphy.gif)
 
 
 [<img  width="22" align="left" style="background-color:white" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />][linkedin]
